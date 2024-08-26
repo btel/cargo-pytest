@@ -6,5 +6,5 @@ Python test runner for rust.
 ## Usage
 
 ```commandline
-cargo test
+cargo pytest
 ```
